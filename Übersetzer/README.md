@@ -26,7 +26,7 @@ Die Bedienung erfolgt vollständig über die Konsole, ohne grafische Oberfläche
 
 ---
 
-## 🛠️ Technologien
+## Technologien
 
 - Python 3
 - `requests` Library
@@ -35,7 +35,7 @@ Die Bedienung erfolgt vollständig über die Konsole, ohne grafische Oberfläche
 
 ---
 
-## 🔑 Voraussetzungen
+## Voraussetzungen
 
 Vor der Nutzung wird ein gültiger Google API Key benötigt:
 
